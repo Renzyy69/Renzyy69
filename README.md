@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Renzyy69 👋
 
-<!--
-**Renzyy69/Renzyy69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/Renzyy69?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Renzyy69?style=social)
 
-Here are some ideas to get you started:
+![Renzyy69's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renzyy69&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renzyy69&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya seorang pemula di dunia programming yang sedang belajar dan mencoba berbagai hal baru.  
+Saat ini, fokus saya adalah mengembangkan skill, eksplorasi project sederhana, dan bertemu teman-teman baru di komunitas developer.
+
+---
+
+### 🔍 Tentang Saya
+- 🚀 Sedang belajar coding dari dasar
+- 💡 Suka mencoba hal baru dan tantangan
+- 🤝 Terbuka untuk kolaborasi dan diskusi
+
+---
+
+### 📊 Aktivitas Terbaru
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Renzyy69&theme=radical)
+
+---
+
+### 📫 Kontak
+- [GitHub](https://github.com/Renzyy69)
+
+---
+
+✨ Terima kasih sudah mampir ke profil saya!  
+Mari bertumbuh dan belajar bersama 🚀
